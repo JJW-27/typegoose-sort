@@ -3,7 +3,7 @@
   "displayName": "Typegoose sort",
   "description": "A tool for sorting typegoose models",
   "version": "0.0.1",
-  "publisher": "JJW-27",
+  "publisher": "JW-extensions",
   "engines": {
     "vscode": ">=1.95.0"
   },
