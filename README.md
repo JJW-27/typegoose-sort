@@ -1,14 +1,14 @@
-# typegoose-sort README
+# Typegoose Sort README
 
 ## Overview
 
-Typegoose sort (typegoose-sort) is a tool for sorting typegoose models by property name
+Typegoose Sort is a tool for sorting typegoose models by property name
 
 ## How to use
 
 Highlight the properties you would like to sort
 
-Type 'Typegoose sort' into the command palette (Cmd + Shift + P)
+Type 'Typegoose Sort' into the command palette (Cmd + Shift + P)
 
 ## Caveats
 
@@ -19,13 +19,9 @@ Models will be sorted using `.localeCompare()` (https://developer.mozilla.org/en
 # Example:
 
 Unsorted code:
-:::image type="content" source="images/unsorted-code.png" alt-text="unsorted code":::
+![image](images/unsorted-code.png)
 
 Sorted code:
-:::image type="content" source="images/sorted-code.png" alt-text="unsorted code":::
+![image](images/sorted-code.png)
 
 ## Release Notes
-
-### 1.0.0
-
-Initial release
