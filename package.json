@@ -2,7 +2,7 @@
   "name": "typegoose-sort",
   "displayName": "Typegoose Sort",
   "description": "A tool for sorting typegoose models",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "JW-extensions",
   "repository": {
     "url": "https://github.com/JJW-27/typegoose-sort.git"
