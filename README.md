@@ -12,7 +12,7 @@ Type 'Typegoose Sort' into the command palette (Cmd + Shift + P)
 
 ## Caveats
 
-Models must be single new-line separated
+Models must be **double new-line separated**
 
 Models will be sorted using `.localeCompare()` (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare)
 
