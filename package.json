@@ -1,6 +1,6 @@
 {
   "name": "typegoose-sort",
-  "displayName": "Typegoose sort",
+  "displayName": "Typegoose Sort",
   "description": "A tool for sorting typegoose models",
   "version": "0.0.1",
   "publisher": "JW-extensions",
@@ -16,7 +16,7 @@
     "commands": [
       {
         "command": "typegoose-sort.typegooseSort",
-        "title": "Typegoose sort"
+        "title": "Typegoose Sort"
       }
     ]
   },
