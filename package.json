@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "publisher": "JJW-27",
   "engines": {
-    "vscode": ">=1.95.0"
+    "vscode": ">=1.90.0"
   },
   "categories": [
     "Other"
