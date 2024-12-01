@@ -23,12 +23,16 @@ Models will be sorted using `.localeCompare()` (https://developer.mozilla.org/en
 ```typescript
 @prop({ ref: "UserSchema" })
 public propA?: Ref<UserSchema>;
+
 @prop({ type: () => String })
 public propD?: string;
+
 @prop({ type: () => Number })
 public propX?: number;
+
 @prop({ type: () => mongoose.Types.ObjectId })
 public propC?: mongoose.Types.ObjectId;
+
 @prop({ type: () => [String] })
 public prop1?: string[];
 ```
