@@ -12,6 +12,8 @@ Type 'Typegoose Sort' into the command palette (Cmd + Shift + P)
 
 ## Caveats
 
+Supports VS Code version >=1.95.0
+
 Models must be **double new-line separated**
 
 Models will be sorted using `.localeCompare()` (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare)
